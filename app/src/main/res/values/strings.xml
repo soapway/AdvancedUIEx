@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdvancedUIEx</string>
+    <string name="drawer_opened">drawer_opened</string>
+    <string name="drawer_closed">drawer_closed</string>
+    <string name="hello_blank_fragment">hello blank fragment</string>
+    <string name="navigation_title">Navigation Title</string>
+</resources>
